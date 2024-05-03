@@ -14,9 +14,9 @@ If you choose to sponsor and use the CyberDrain hosted version, you can skip thi
 
 
 
+In the CIPP Application
 
-
-1. Go to Settings -> Backend
+1. Go to Application Settings -> TAB Backend
 2. Click on "Function app Configuration"
 3. Click on "New Application Setting"
 4. Add an application setting with the name "WEBSITE\_RUN\_FROM\_PACKAGE" and the value "1"
